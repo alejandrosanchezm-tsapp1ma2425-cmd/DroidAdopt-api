@@ -1,0 +1,1 @@
+# DroidAdopt-api
